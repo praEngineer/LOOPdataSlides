@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LOOPdata</title>
+  <meta charset="utf-8">
+  <meta name="description" content="LOOPdata">
+  <meta name="author" content="Farkas">
+  <meta name="generator" content="slidify" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/default.css" media="all" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/phone.css" 
+    media="only screen and (max-device-width: 480px)" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
+  <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="./assets/css/ribbons.css"></link>
+
+  
+  <!-- Grab CDN jQuery, fall back to local if offline -->
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+  <script>window.jQuery || document.write('<script src="libraries/widgets/quiz/js/jquery.js"><\/script>')</script> 
+  <script data-main="libraries/frameworks/io2012/js/slides" 
+    src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
+  </script>
+  
+  
+
+</head>
+<body style="opacity: 0">
+  <slides class="layout-widescreen">
+    
+    <!-- LOGO SLIDE -->
+        <slide class="title-slide segue nobackground">
+  <aside class="gdbar">
+    <img src="assets/img/logo_small.jpg">
+  </aside>
+  <hgroup class="auto-fadein">
+    <h1>LOOPdata</h1>
+    <h2>Commercial Nuclear Power Experiences</h2>
+    <p>Farkas<br/>praEngineer</p>
+  </hgroup>
+  <article></article>  
+</slide>
+    
+
+    <!-- SLIDES -->
+    <slide class="" id="slide-1" style="background:;">
+  <hgroup>
+    <h2>Introduction</h2>
+  </hgroup>
+  <article data-timings="">
+    <ol>
+<li>Risk exposure</li>
+<li>NRC event data</li>
+<li>EIA event data</li>
+</ol>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>Exposure</h2>
+  </hgroup>
+  <article data-timings="">
+    <h4>Total hours of exposure in one year at all 72 sites </h4>
+
+<pre><code>## [1] 630720
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>NRC Event Logs</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>Plant operators keep the NRC informed on a defined set of problems via phone calls log as <a href="http://www.nrc.gov/reading-rm/doc-collections/event-status/event/">events</a>.</p>
+
+<p>More complex events are described via <a href="https://lersearch.inl.gov/LERSearchCriteria.aspx">reports</a>.  Some of these describe &quot;loss of offsite power&quot;&quot; events.</p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>EIA Appendix B Logs</h2>
+  </hgroup>
+  <article data-timings="">
+    <h3>Form OE-417 logs</h3>
+
+<p><a href="http://www.eia.gov/electricity/monthly/">Major Disturbances and Unusual Occurrences</a>, particularly Table B.1</p>
+
+<!-- html table generated in R 3.1.0 by xtable 1.7-3 package -->
+
+<!-- Sun Jun 22 21:42:22 2014 -->
+
+<TABLE border=1>
+<TR> <TH>  </TH> <TH> Event.Date.and.Time </TH> <TH> Utility.Power.Pool </TH> <TH> NERC.Region </TH> <TH> Type.of.Disturbance </TH>  </TR>
+  <TR> <TD align="right"> 1 </TD> <TD> 01/06/2014  7:01 AM </TD> <TD> ERCOT </TD> <TD> TRE </TD> <TD> Public Appeal due to Severe Weather - Cold </TD> </TR>
+  <TR> <TD align="right"> 2 </TD> <TD> 01/06/2014  7:01 AM </TD> <TD> ERCOT </TD> <TD> TRE </TD> <TD> Public Appeal due to Severe Weather - Cold </TD> </TR>
+  <TR> <TD align="right"> 3 </TD> <TD> 01/06/2014  7:50 PM </TD> <TD> PJM Interconnection </TD> <TD> RFC </TD> <TD> Voltage Reduction due to Severe Weather - Cold </TD> </TR>
+  <TR> <TD align="right"> 4 </TD> <TD> 01/06/2014  7:50 PM </TD> <TD> PJM Interconnection </TD> <TD> RFC </TD> <TD> Voltage Reduction due to Severe Weather - Cold </TD> </TR>
+  <TR> <TD align="right"> 5 </TD> <TD> 01/06/2014  7:50 PM </TD> <TD> PPL Electric Utilities Corp </TD> <TD> RFC </TD> <TD> Voltage Reduction due to Severe Weather - Cold </TD> </TR>
+  <TR> <TD align="right"> 6 </TD> <TD> 01/06/2014  7:50 PM </TD> <TD> Potomac Electric Power Co </TD> <TD> RFC </TD> <TD> Voltage Reduction due to Severe Weather - Cold </TD> </TR>
+   </TABLE>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>Anticipating LOOP</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>A statistical method shows how the likelihood of a grid-induced LOOP is a strong function of the location of the plant (i.e., regional dependence) as well as the season of the year (i.e., seasonal dependence).  To establish a statistically meaningful data set, grid-centered LOOP events were enriched by merging traditional LOOP events (NRC) with events hypothesized to be pre-cursors to LOOP events (EIA).  The duration of grid-centered LOOPs (directly related to the LOOP-non-recovery probability) averaged from three to nine hours.  The effect on the non-recovery probability as a result of this unexpectedly long duration is left to a future report.</p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+    <slide class="backdrop"></slide>
+  </slides>
+  <div class="pagination pagination-small" id='io2012-ptoc' style="display:none;">
+    <ul>
+      <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=1 title='Introduction'>
+         1
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=2 title='Exposure'>
+         2
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=3 title='NRC Event Logs'>
+         3
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=4 title='EIA Appendix B Logs'>
+         4
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=5 title='Anticipating LOOP'>
+         5
+      </a>
+    </li>
+  </ul>
+  </div>  <!--[if IE]>
+    <script 
+      src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js">  
+    </script>
+    <script>CFInstall.check({mode: 'overlay'});</script>
+  <![endif]-->
+</body>
+  <!-- Load Javascripts for Widgets -->
+  
+  <!-- MathJax: Fall back to local if CDN offline but local image fonts are not supported (saves >100MB) -->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
+      }
+    });
+  </script>
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  <!-- <script src="https://c328740.ssl.cf1.rackcdn.com/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script> -->
+  <script>window.MathJax || document.write('<script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS":{imageFont:null}});<\/script><script src="libraries/widgets/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"><\/script>')
+</script>
+<!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>

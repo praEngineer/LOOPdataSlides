@@ -1,0 +1,73 @@
+Year,Month,Event Date and Time,Restoration Date and Time,Duration,Utility/Power Pool,NERC Region,Area Affected,Type of Disturbance,Loss (megawatts),Number of Customers Affected
+2014,1,01/06/2014  7:01 AM,01/07/2014  9:00 AM,"25 Hours, 59 Minutes",ERCOT,TRE,Texas,Public Appeal due to Severe Weather - Cold,N/A,N/A
+2014,1,01/06/2014  7:01 AM,01/07/2014  9:00 AM,"25 Hours, 59 Minutes",ERCOT,TRE,Texas,Public Appeal due to Severe Weather - Cold,N/A,N/A
+2014,1,01/06/2014  7:50 PM,01/06/2014  8:44 PM,"0 Hours, 54 Minutes",PJM Interconnection,RFC,Unknown,Voltage Reduction due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/06/2014  7:50 PM,01/06/2014  8:44 PM,"0 Hours, 54 Minutes",PJM Interconnection,RFC,Unknown,Voltage Reduction due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/06/2014  7:50 PM,01/06/2014  8:44 PM,"0 Hours, 54 Minutes",PPL Electric Utilities Corp,RFC,Pennsylvania,Voltage Reduction due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/06/2014  7:50 PM,01/06/2014  8:44 PM,"0 Hours, 54 Minutes",Potomac Electric Power Co,RFC,District of Columbia,Voltage Reduction due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/06/2014  7:50 PM,01/06/2014  8:44 PM,"0 Hours, 54 Minutes",PPL Electric Utilities Corp,RFC,Pennsylvania,Voltage Reduction due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/06/2014  7:50 PM,01/06/2014  8:44 PM,"0 Hours, 54 Minutes",Potomac Electric Power Co,RFC,District of Columbia,Voltage Reduction due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/06/2014  7:50 PM,01/06/2014  8:49 PM,"0 Hours, 59 Minutes","UGI Utilities, Inc",RFC,Pennsylvania,Voltage Reduction due to Severe Weather - Cold,200,62000
+2014,1,01/06/2014  7:50 PM,01/06/2014  8:49 PM,"0 Hours, 59 Minutes","UGI Utilities, Inc",RFC,Pennsylvania,Voltage Reduction due to Severe Weather - Cold,200,62000
+2014,1,01/06/2014  7:52 PM,01/06/2014  8:45 PM,"0 Hours, 53 Minutes",Delmarva Power & Light Company,RFC,Delaware,Voltage Reduction due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/06/2014  7:52 PM,01/06/2014  8:45 PM,"0 Hours, 53 Minutes",Delmarva Power & Light Company,RFC,Delaware,Voltage Reduction due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/06/2014  8:45 PM,01/07/2014  9:00 PM,"24 Hours, 15 Minutes",PJM Interconnection,RFC,Unknown,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/06/2014  8:45 PM,01/07/2014  9:00 PM,"24 Hours, 15 Minutes",PJM Interconnection,RFC,Unknown,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/06/2014 10:00 PM,01/06/2014 10:01 PM,"0 Hours,  1 Minutes",Louisville Gas & Electric Co,RFC,Kentucky,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/06/2014 10:00 PM,01/06/2014 10:01 PM,"0 Hours,  1 Minutes",Louisville Gas & Electric Co,RFC,Kentucky,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/07/2014  6:00 AM,01/07/2014  8:30 AM,"2 Hours, 30 Minutes",Tennessee Valley Authority,SERC,Northeast Tennessee,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/07/2014  6:00 AM,01/07/2014  8:30 AM,"2 Hours, 30 Minutes",Memphis Light Gas and Water Division,SERC,Tennessee,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/07/2014  6:00 AM,01/07/2014  8:30 AM,"2 Hours, 30 Minutes",Tennessee Valley Authority,SERC,Northeast Tennessee,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/07/2014  6:00 AM,01/07/2014  8:30 AM,"2 Hours, 30 Minutes",Memphis Light Gas and Water Division,SERC,Tennessee,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/07/2014  7:58 AM,01/07/2014 11:00 AM,"3 Hours,  2 Minutes",Duke Energy Progress,SERC,North Carolina,Voltage Reduction; Public Appeal due to Severe Weather - Cold,14435,Unknown
+2014,1,01/07/2014  7:58 AM,01/07/2014 11:00 AM,"3 Hours,  2 Minutes",Duke Energy Progress,SERC,North Carolina,Voltage Reduction; Public Appeal due to Severe Weather - Cold,14435,Unknown
+2014,1,01/07/2014  9:30 AM,01/08/2014  9:30 AM,"24 Hours,  0 Minutes",Duke Energy Carolinas,SERC,"Piedmont North Carolina, Piedmont South Carolina",Fuel Supply Emergency due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/07/2014  9:30 AM,01/08/2014  9:30 AM,"24 Hours,  0 Minutes",Duke Energy Carolinas,SERC,"Piedmont North Carolina, Piedmont South Carolina",Fuel Supply Emergency due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/07/2014 10:59 AM,01/09/2014  9:00 AM,"46 Hours,  1 Minutes","Prairie Power, Inc.",RFC,Illinois,Fuel Supply Emergency - Natural Gas,N/A,N/A
+2014,1,01/07/2014 10:59 AM,01/09/2014  9:00 AM,"46 Hours,  1 Minutes","Prairie Power, Inc.",RFC,Illinois,Fuel Supply Emergency - Natural Gas,N/A,N/A
+2014,1,01/07/2014  4:15 PM,01/08/2014  1:20 PM,"21 Hours,  5 Minutes",Duke Energy Progress,SERC,North Carolina,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/07/2014  4:15 PM,01/08/2014  1:20 PM,"21 Hours,  5 Minutes",Duke Energy Progress,SERC,North Carolina,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/07/2014  6:00 PM,01/07/2014 11:00 PM,"5 Hours,  0 Minutes",South Carolina Electric and Gas,SERC,South Carolina,Voltage Reduction; Public Appeal; Load Shed 100+MW due to Severe Weather - Cold,4853,677858
+2014,1,01/07/2014  6:00 PM,01/07/2014 11:00 PM,"5 Hours,  0 Minutes",South Carolina Electric and Gas,SERC,South Carolina,Voltage Reduction; Public Appeal; Load Shed 100+MW due to Severe Weather - Cold,4853,677858
+2014,1,01/07/2014  9:00 PM,01/08/2014  9:00 AM,"12 Hours,  0 Minutes",PJM Interconnection,RFC,Unknown,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/07/2014  9:00 PM,01/08/2014  9:00 AM,"12 Hours,  0 Minutes",PJM Interconnection,RFC,Unknown,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/08/2014  5:00 AM,01/08/2014  6:30 AM,"1 Hours, 30 Minutes",American Electric Power,RFC,Unknown,Voltage Reduction due to Severe Weather - Cold,576,Unknown
+2014,1,01/08/2014  5:00 AM,01/08/2014  6:30 AM,"1 Hours, 30 Minutes",American Electric Power,RFC,Unknown,Voltage Reduction due to Severe Weather - Cold,576,Unknown
+2014,1,01/08/2014  6:00 AM,01/08/2014  9:00 AM,"3 Hours,  0 Minutes",South Carolina Electric and Gas,SERC,South Carolina,Voltage Reduction; Public Appeal; Load Shed 100+MW due to Severe Weather - Cold,4545,677858
+2014,1,01/08/2014  6:00 AM,01/08/2014  9:00 AM,"3 Hours,  0 Minutes",South Carolina Electric and Gas,SERC,South Carolina,Voltage Reduction; Public Appeal; Load Shed 100+MW due to Severe Weather - Cold,4545,677858
+2014,1,01/18/2014  9:00 AM,01/18/2014  9:45 AM,"0 Hours, 45 Minutes",ERCOT,TRE,Texas,Public Appeal to Reduce Electricity Usage,Unknown,Unknown
+2014,1,01/18/2014  5:39 PM,ongoing,ongoing,First Energy Solutions Corp.,RFC,Unknown,Electrical System Islanding,Unknown,Unknown
+2014,1,01/23/2014  4:00 AM,01/24/2014 12:00 PM,"32 Hours,  0 Minutes",Memphis Light Gas and Water Division,SERC,Tennessee,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/23/2014  1:04 PM,01/24/2014  9:00 AM,"19 Hours, 56 Minutes",PJM Interconnection,RFC,Maryland,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/23/2014  4:00 PM,01/24/2014 12:00 PM,"20 Hours,  0 Minutes",Tennessee Valley Authority,SERC,Tennessee,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,1,01/24/2014 12:00 AM,ongoing,ongoing,We Energies,RFC,Wisconsin,Fuel Supply Emergency - Coal,Unknown, 
+2014,1,01/27/2014  2:20 PM,01/28/2014  9:00 PM,"30 Hours, 40 Minutes",PJM Interconnection,RFC,Maryland,Public Appeal due to Severe Weather - Cold,Unknown,Unknown
+2014,2,02/05/2014 12:00 AM,02/09/2014  6:00 PM,"114 Hours,  0 Minutes",FirstEnergy Corp: Potomac Edison,RFC,"Maryland, West Virginia",Severe Weather - Snow/Ice,Unknown,101580
+2014,2,02/05/2014  1:00 AM,02/09/2014  8:40 PM,"115 Hours, 40 Minutes",FirstEnergy Corp: Met-Ed,RFC,Pennsylvania,Severe Weather - Snow/Ice,Unknown,144000
+2014,2,02/05/2014  5:00 AM,02/05/2014  5:01 AM,"0 Hours,  1 Minutes",Exelon Corporation/PECO,RFC,Pennsylvania,Severe Weather - Snow/Ice,Unknown,715000
+2014,2,02/05/2014  7:00 AM,02/23/2014  7:00 AM,"432 Hours,  0 Minutes",Upstate New York Power Producers,NPCC,New York,Fuel Supply Emergency - Coal,300,Unknown
+2014,2,02/05/2014  7:35 AM,02/07/2014  4:03 AM,"44 Hours, 28 Minutes",PPL Electric Utilities Corp,RFC,"Lancaster Region, Pennsylvania",Severe Weather - Snow/Ice,Unknown,62159
+2014,2,02/05/2014  8:05 AM,02/05/2014  8:06 AM,"0 Hours,  1 Minutes",Baltimore Gas & Electric Company,RFC,"Baltimore, Maryland",Severe Weather - Ice,800,181000
+2014,2,02/06/2014  1:00 PM,02/06/2014 10:00 PM,"9 Hours,  0 Minutes",California ISO,WECC,California,Fuel Supply Emergency - Natural Gas,4000,Unknown
+2014,2,02/06/2014  1:05 PM,02/06/2014  7:15 PM,"6 Hours, 10 Minutes",Pacific Gas & Electric Co,WECC,Northern California,Fuel Supply Emergency - Natural Gas,160,Unknown
+2014,2,02/06/2014  1:58 PM,02/06/2014  8:40 PM,"6 Hours, 42 Minutes",American Electric Power,TRE,Rio Grande Valley Texas,Public Appeal to Reduce Electricity Usage,Unknown,Unknown
+2014,2,02/06/2014  2:15 PM,02/06/2014  7:39 PM,"5 Hours, 24 Minutes",Southern California Edison,WECC,California,Fuel Supply Emergency - Natural Gas,611,Unknown
+2014,2,02/06/2014  3:35 PM,02/07/2014 11:30 AM,"19 Hours, 55 Minutes",ERCOT,TRE,ERCOT Region Texas,Public Appeal to Reduce Electricity Usage,Unknown,Unknown
+2014,2,02/07/2014  7:00 AM,03/21/2014  8:00 AM,"1,009 Hours,  0 Minutes","Somerset Operating Company, LLC",NPCC,Niagara County New York,Fuel Supply Emergency - Coal,675,Unknown
+2014,2,02/07/2014  4:30 PM,02/08/2014  9:00 AM,"16 Hours, 30 Minutes",ERCOT,TRE,ERCOT Region Texas,Public Appeal to Reduce Electricity Usage,Unknown,Unknown
+2014,2,02/07/2014  4:50 PM,02/07/2014  8:30 PM,"3 Hours, 40 Minutes",American Electric Power,TRE,Texas,Public Appeal to Reduce Electricity Usage,Unknown,Unknown
+2014,2,02/12/2014  7:48 AM,02/15/2014  4:30 AM,"68 Hours, 42 Minutes",Southern Company,SERC,Northern/Northeastern Georgia,Severe Weather - Snow/Ice,1246,373835
+2014,2,02/12/2014 11:03 AM,02/15/2014  8:40 AM,"69 Hours, 37 Minutes",South Carolina Electric and Gas,SERC,South Carolina,Severe Weather - Snow/Ice,700,120124
+2014,2,02/12/2014 12:10 PM,02/15/2014  3:20 PM,"75 Hours, 10 Minutes",Duke Energy Progress,SERC,North Carolina,Severe Weather - Snow/Ice,Unknown,200000
+2014,2,02/20/2014  4:40 PM,02/21/2014 11:59 PM,"31 Hours, 19 Minutes",Ameren Missouri,SERC,"Missouri, Illinois",Severe Weather - Snow/Ice,Unknown,66000
+2014,2,02/21/2014  2:53 AM,02/21/2014  9:00 PM,"18 Hours,  7 Minutes",Southern Company,SERC,Northern/Northeastern Georgia,Severe Weather - Thunderstorms/High Winds,221,66445
+2014,3,03/02/2014  7:00 PM,03/04/2014  9:00 AM,"38 Hours,  0 Minutes",ERCOT,TRE,ERCOT Region Texas,Public Appeal due to Severe Weather - Cold,N/A,N/A
+2014,3,03/03/2014  1:48 AM,03/03/2014  1:49 AM,"0 Hours,  1 Minutes",Public Utility District #1 of Chelan County (CHPD),WECC,"Mid-Columbia River Generation, Washington",Fuel Supply Emergency - Hydro,630,Unknown
+2014,3,03/03/2014  6:40 AM,03/03/2014  3:28 PM,"8 Hours, 48 Minutes",Tennessee Valley Authority,SERC,Tennessee,Severe Weather - Winter Storm,Unknown,65904
+2014,3,03/04/2014  9:06 AM,03/17/2014  9:06 AM,"312 Hours,  0 Minutes",Wisconsin Public Service Corp,MRO,"Weston, Wisconsin",Fuel Supply Emergency - Coal,Unknown,Unknown
+2014,3,03/07/2014  3:30 AM,03/07/2014  9:00 PM,"17 Hours, 30 Minutes",Duke Energy Carolinas,SERC,"Triad, North Carolina",Severe Weather - Winter Storm,1500,370900
+2014,3,03/12/2014  7:35 PM,03/13/2014 12:00 PM,"16 Hours, 25 Minutes",Duke Energy Carolinas,SERC,North Carolina,Severe Weather - High Winds,250,61377
+2014,3,03/26/2014  1:37 PM,03/26/2014  2:33 PM,"0 Hours, 56 Minutes",Peak Reliability,WECC,Montana,Electrical System Separation (Islanding),Unknown,Unknown
+2014,3,03/31/2014  3:41 PM,03/31/2014  8:08 PM,"4 Hours, 27 Minutes",Puerto Rico Electric Power Authority,N/A,Puerto Rico,System Wide Voltage Reduction,Unknown,Unknown
+"Note: Customers affected are estimates and are preliminary.
+Source: Form OE-417, 'Electric Emergency Incident and Disturbance Report.'",,,,,,,,,,
